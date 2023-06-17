@@ -1,2 +1,2 @@
 # Bot-EndMc
-Robot pour le grade "Developpeur Bot" EndMc 
+Dernière version du Bot EndMC.
