@@ -48,8 +48,7 @@ module.exports = async (client, interaction) => {
                     },
                     {
                         id: config.staff_role,
-                        allow: ["VIEW_CHANNEL"],
-                        deny: ["SEND_MESSAGES"],
+                        allow: ["VIEW_CHANNEL", "SEND_MESSAGES"],
                     },
                     {
                         id: interaction.message.guild.roles.everyone,
